@@ -1,0 +1,13 @@
+Introduce el valor de la base (a)
+Introduce el valor de la altura	(h)
+Introduce el valor de C (c)
+Introduce el valor de D (d)
+
+BaseMenor = a - d - c
+
+Tot= h * ((a + basemenor)/(2)
+
+costo= 3,450*Tot
+
+
+
